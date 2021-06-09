@@ -10,7 +10,7 @@
 |[app-check](https://git.app-check.org/app-check/appium-bot)| ✔open-source | 2021 | AGPL  | ✔ | ✔ | ❌ | ❌ |❌| random & systematic | ❌ | device & emulator | black box | ✔ |
 |AppDoctor <sup>[[pub](https://dl.acm.org/doi/10.1145/2592798.2592813)]</sup>| ❌| 2014 | ❌  | ✔ | ✔ | ✔ | app |❌| various | ✔ | device & emulator | gray box | ❌ |
 |[CrawlDroid](https://github.com/sy1121/CrawlDroid) <sup>[[pub](https://dl.acm.org/doi/10.1145/3275219.3275238)]</sup>|  ✔open-source | 2017 | ❌  | ✔ | ❌ | ❌ | app |❌| model | ❌ | device & emulator | black box | ❌ |
-|CrashScope <sup>[[pub](https://ieeexplore.ieee.org/document/7515457)| ❌| 2016 | ❌  | ✔ | ✔ | ✔ | ❌ |❌| systematic | ❌ | device & emulator | black box | ✔ |
+|CrashScope <sup>[[pub](https://ieeexplore.ieee.org/document/7515457)]| ❌| 2016 | ❌  | ✔ | ✔ | ✔ | ❌ |❌| systematic | ❌ | device & emulator | black box | ✔ |
 |[CuriousDroid](https://github.com/pdcarter/curiousdroid) <sup>[[pub](https://link.springer.com/chapter/10.1007/978-3-662-54970-4_13)]</sup>|  ✔open-source | 2016 | GPL3  | ✔ | ✔ | ❌ | app |✔| model | ✔ | device & emulator | gray box | ❌ |
 |[DroidBot](https://github.com/honeynet/droidbot)  <sup>[[pub](https://ieeexplore.ieee.org/document/7965248)]</sup>| ✔open-source | 2016 | MIT  | ✔ | progr. | ✔ | ❌|❌ | model | ❌ | device & emulator | black box | ✔ |
 |[DroidFuzzer](https://github.com/manfiS/droidfuzzer) <sup>[[pub](https://dl.acm.org/doi/10.1145/2536853.2536881)]</sup>| ✔open-source  | 2016 | GPL3 | ❌ | intents | ❌ | ❌ |❌| random| ✔ | device & emulator | gray box | ✔ |
@@ -18,7 +18,7 @@
 |[Dynodroid](https://github.com/dynodroid/dynodroid) <sup>[[pub](https://dl.acm.org/doi/10.1145/2491411.2491450)]</sup>| ✔open-source | 2017 | ❌ | ✔| login | ✔ | OS |❌| random | ❌ | emulator | black box | ✔ |
 |EvoDroid <sup>[[pub](https://dl.acm.org/doi/10.1145/2635868.2635896)]</sup>| ❌| 2014 | ❌ | ✔| ❌ | ❌ | ❌ |❌ | systematic | ❌ | device & emulator | white box | ❌ | 
 |FragDroid <sup>[[pub](https://ieeexplore.ieee.org/document/8416501)]</sup>|  ❌| 2018 | ❌ | ✔| ❌ | ❌ | app |❌| model | ✔ | device & emulator | gray box | ❌ | 
-|[Google RoboTest](https://firebase.google.com/docs/test-lab/android/robo-ux-test)]</sup>| ✔ closed-source | 2020 | ❌ | ✔| ✔ | ❌ | ❌ |❌| systematic | ❌ | device & emulator | black box | ✔ | 
+|[Google RoboTest](https://firebase.google.com/docs/test-lab/android/robo-ux-test)| ✔ closed-source | 2020 | ❌ | ✔| ✔ | ❌ | ❌ |❌| systematic | ❌ | device & emulator | black box | ✔ | 
 |Haoyin <sup>[[pub](https://ieeexplore.ieee.org/document/8299722)]</sup>|❌| 2017 | ❌ | ✔| ✔ | ✔ | ❌ |❌| random | ✔ | device & emulator | black box? | ❌ |
 |IntentFuzzer <sup>[[pub](https://dl.acm.org/doi/10.1145/2632168.2632169)]</sup>| ❌ | 2014 | ❌ | ❌ | intents | ❌ | ❌ |❌| random| ✔ | device & emulator | white box | ✔ |
 |[JPF-Android](https://github.com/micklinISgood/JPF-Android) <sup>[[pub](https://dl.acm.org/doi/10.1145/2382756.2382797)]</sup>|  ✔open-source | 2016 | Apache | ✔| ❌ | ❌ | ❌ |❌| systematic | ✔ | device & emulator | white box | ✔ |
