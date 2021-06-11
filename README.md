@@ -1,3 +1,6 @@
+## NOTE:
+This repository was anynomized for review. After the review, this repository will be publicly available on Github and the links in the paper will be updated.
+
 # Android App Automation/Stimulation Tools
 
 |Tool |Available|Last Active|License|UI Events|Context Input (Text/Email)|System Events|Instrumentation|Root Required|Exploration|Static Analysis|Device Type|Test Type|Record  + Replay|
